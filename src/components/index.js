@@ -11,6 +11,8 @@ import PostForm from "./post-form/PostForm"
 import AllPosts from "../pages/AllPosts";
 import PostCard from "../post-form/PostCard"
 import EditPost from "../pages/EditPost";
+import Home from "../pages/Home";
+import Post from "../pages/Post";
 
 export{
     Header,
@@ -25,5 +27,7 @@ export{
     PostForm,
     AllPosts,
     PostCard,
-    EditPost
+    EditPost,
+    Home,
+    Post
 }
