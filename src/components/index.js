@@ -9,6 +9,8 @@ import Login from "../pages/Login ";
 import AddPost from "../pages/AddPost";
 import PostForm from "./post-form/PostForm" 
 import AllPosts from "../pages/AllPosts";
+import PostCard from "../post-form/PostCard"
+import EditPost from "../pages/EditPost";
 
 export{
     Header,
@@ -21,5 +23,7 @@ export{
     Login,
     AddPost,
     PostForm,
-    AllPosts
+    AllPosts,
+    PostCard,
+    EditPost
 }
